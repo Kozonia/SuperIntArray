@@ -21,9 +21,15 @@
     <ClCompile Include="Highlander.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="SuperIntArray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Highlander.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SuperIntArray.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

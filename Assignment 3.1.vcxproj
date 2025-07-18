@@ -125,9 +125,11 @@
   <ItemGroup>
     <ClCompile Include="AssignmentMain.cpp" />
     <ClCompile Include="Highlander.cpp" />
+    <ClCompile Include="SuperIntArray.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Highlander.h" />
+    <ClInclude Include="SuperIntArray.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
